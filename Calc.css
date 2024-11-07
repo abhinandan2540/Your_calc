@@ -1,0 +1,27 @@
+#screen {
+    border: 2px solid red;
+    width: 250px;
+    height: 50px;
+
+}
+
+#but {
+    height: 45px;
+    width: 60px;
+
+}
+
+#buteql {
+    height: 45px;
+    width: 60px;
+}
+
+#butc {
+    height: 45px;
+    width: 60px;
+}
+
+
+body {
+    justify-self: center;
+}
